@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Justin Chou
-jtchou@ucsd.edu
+Justin Chou and Kai Breese
